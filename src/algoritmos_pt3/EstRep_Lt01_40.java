@@ -23,7 +23,7 @@ public class EstRep_Lt01_40 {
 		if(n1 > n2) {
 			maior = n1;
 			menor = n2;
-		}else if(n2 > n1) {
+		}else{
 			maior = n2;
 			menor = n1;
 		}
